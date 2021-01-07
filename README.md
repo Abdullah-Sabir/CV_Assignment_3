@@ -14,4 +14,4 @@ The model we have chosen for our implementation is VGG. VGG is an architecture o
 # Code
 Code is self explanatory so you shouldn't have any problem
 # Augmented Model performance
-https://github.com/Abdullah-Sabir//CV_Assignment_3/blob/[branch]/image.jpg?raw=true 
+![alt text](https://github.com/Abdullah-Sabir/CV_Assignment_3/blob/main/Screenshot%20(288).png?raw=true)
