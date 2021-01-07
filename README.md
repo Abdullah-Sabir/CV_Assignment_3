@@ -15,3 +15,7 @@ The model we have chosen for our implementation is VGG. VGG is an architecture o
 Code is self explanatory so you shouldn't have any problem
 # Augmented Model performance
 ![alt text](https://github.com/Abdullah-Sabir/CV_Assignment_3/blob/main/Screenshot%20(288).png?raw=true)
+# Pre-Train Model Weighs
+https://drive.google.com/file/d/1oY0tA8a-SkexDc_V2dQw6DQZjIAlywBg/view?usp=sharing
+# How to Load Pre-Train Weighs
+load_model = keras.models.load_model("your_model_name")
